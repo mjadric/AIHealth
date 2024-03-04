@@ -5,7 +5,8 @@ Upute za rad s gitom preko Colab-a:
 1. Inicijalizacija repozitorija i kloniranje (radi se samo jednom na početku!):
 
 !git init
-!git clone <URL_of_your_repository>
+
+!git clone https://github.com/mjadric/AIHealth.git
 
 -----------------------------------------
 
