@@ -21,9 +21,13 @@ Povlačenje promjena s glavne grane (ako je potrebno)
 3. Dodavanje, commitanje i pushanje promjena:
 
 !git add .
+
 !git commit -m "Commit message from notebook on development branch"
+
 !git config --global user.email "your_email@example.com"
+
 !git config --global user.name "Your Name"
+
 !git push origin naziv_grane
 
 
